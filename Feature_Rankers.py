@@ -5,7 +5,7 @@
 # jomic for joint mutual information criterion-based selection.
 # Functions for intrinsic information and gain ratio calculation.
 # Gratio for gain ratio-based selection.
-# PCrr for Pearson correlation-based feature selection.
+# PCFS for Pearson correlation-based feature selection.
 # MIFSND for MIFSND feature selection method.
 
 
