@@ -9,7 +9,10 @@ The framework integrates:
 	-correlation-based redundancy removal
 
 It is designed to improve feature stability, robustness, and scalability while maintaining strong classification performance.
+To install the necessary Python modules, run the command below:
 
+	pip install -r requirements.txt
+	
 # Functions.py 
 All the Python functions used in this project.
 
